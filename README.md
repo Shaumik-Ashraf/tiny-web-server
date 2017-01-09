@@ -1,16 +1,7 @@
+forked from [shenfeng](https://github.com/shenfeng/tiny-web-server); all credits to him. 
+
 A tiny web server in C
 ======================
-
-I am reading
-[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/).
-It teachers me how to write a tiny web server in C.
-
-I have written another
-[tiny web server](https://github.com/shenfeng/nio-httpserver) in JAVA.
-
-And another one [http-kit](https://github.com/http-kit/http-kit), http-kit is full featured, with websocket and async support
-
-And few others on my github page.
 
 Features
 --------
